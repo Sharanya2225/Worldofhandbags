@@ -19,7 +19,7 @@ export default function NoData() {
           style={{ objectFit: "contain" }}
           width={"100%"}
           src={
-            "https://static-assets-web.flixcart.com/fk-p-linchpin-web/fk-cp-zion/img/error-no-search-results_2353c5.png"
+            "https://static.vecteezy.com/system/resources/previews/001/857/111/non_2x/error-404-page-not-found-landing-page-concept-for-mobile-and-pc-free-vector.jpg" 
           }
         />
         <Box>

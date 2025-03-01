@@ -12,7 +12,7 @@ const Banner = () => {
           justifyContent: "center", 
           flexDirection: "column",
           backgroundImage: `url(${handbag})`,
-          
+          backgroundRepeat:"no-repeat"
       }}
     >
       <Grid container alignItems="center" spacing={2}>
